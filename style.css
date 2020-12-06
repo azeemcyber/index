@@ -1,0 +1,50 @@
+
+
+body {
+	background:url('background/window2.jpg') no-repeat; 
+	background-size:cover;
+	font-family:arial rounded;
+	color:black;
+}
+ ul { 
+	margin:0.5px; 
+	padding:0.5px;
+	list-style:none;
+}
+ ul li {
+		float:left;
+		width:250px;
+		height:30px;
+		background-color:gold;
+		opacity:.5;
+		line-height:40px;
+		text-align:center;
+		font-size:19px;
+		margin-right:2px;
+	
+ }
+ ul li a{
+	 text-decoration:none;
+	 color:black;
+	 display:block;
+ }
+ ul li a:hover{ 
+	background-color:green; 
+ } ul li ul li { 
+		display:none;
+ }
+ ul li :hover ul li{
+	 display: block;
+ }
+ padding h1 { 
+ color:white;
+ font-family:arial;
+ width:10px;
+ height:10px;
+ Printing service and training procedures, 
+ }
+ 
+ 
+ 
+ 
+ 
